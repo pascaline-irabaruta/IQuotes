@@ -1,6 +1,5 @@
 # IQuotes
 IQuotes is there to help you to share your thoughts and inspire others or be inspired with what others shared through quotes. Feel free to share your own quote.
-# Akan_project
 
 ### Authors
 **Pascaline Irabaruta** 
@@ -19,13 +18,13 @@ IQuotes is there to help you to share your thoughts and inspire others or be ins
 5.Bootstrap framework
 
 ### Contact Information  
-Email:pascyirabaruta456@gmail.com
-Tel:0789160608
+* Email:pascyirabaruta456@gmail.com
+* Tel:0789160608
 
 ### Github live pages
  https://pascaline-irabaruta.github.io/IQuotes/
 ### License 
-This project is license  by MIT for more information visit [LICENSE.md]
+This project is license  by MIT for more information visit [LICENSE.md](LICENSE.md) .
 ### copyright information
 Copyright (c) 2020 Pascaline Irabaruta
 
